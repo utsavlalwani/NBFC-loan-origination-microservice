@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment / secrets
+.env
+
+# Databases
+*.db
+
+# Uploaded files (local storage fallback)
+local_uploads/
